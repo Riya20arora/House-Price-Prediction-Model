@@ -30,10 +30,6 @@ Output: Predicted house price
 Libraries: scikit-learn, numpy, pickle, flask
 
 ⚙️ How to Run Locally
-Clone the repo
-git clone https://github.com/your-username/house-price-flask-app.git
-cd house-price-flask-app
-
 Install dependencies
 pip install flask scikit-learn numpy
 
@@ -44,7 +40,7 @@ Run the app
 python App.py
 
 Open in browser
-eg http://127.0.0.1:5000/
+eg [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
 Sample Input & Output
 Input Value (Area)	Predicted Price
